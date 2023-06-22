@@ -6,3 +6,7 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+title: "Galaxy's blog"
+description: "Galaxy로 채워지는 공간"
+theme: just-the-docs
