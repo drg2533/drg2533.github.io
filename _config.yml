@@ -10,3 +10,7 @@ aux_links:
 title: "Galaxy's blog"
 description: "Galaxy로 채워지는 공간"
 theme: just-the-docs
+
+layout: page
+title : "test-page"
+permalink: /test
